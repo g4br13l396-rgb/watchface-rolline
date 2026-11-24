@@ -7,8 +7,8 @@ android {
         applicationId = "com.personal.rollinewatchface"
         minSdk = 33
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 2
+        versionName = "1.1"
     }
     // Chiave di firma fissa nel repository: gli aggiornamenti si installano senza disinstallare
     signingConfigs {
